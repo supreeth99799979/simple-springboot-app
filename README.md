@@ -11,7 +11,7 @@ A spring boot application can be created in three different ways
 
     Spring boot CLI
 
-    Spring boot using spring tool suite IDE
+    Spring boot using spring tool suite IDE 
 
 # Content of Quick Start Guide
 
